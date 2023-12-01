@@ -1,150 +1,402 @@
 [
     {
-        "text": "Não desista dos seus sonhos, pois só quem luta consegue alcançar.",
-        "author": "Albert Einstein"
-    },
-    {
-        "text": "A vida é uma jornada, não um destino.",
-        "author": "Ralph Waldo Emerson"
-    },
-    {
-        "text": "Não é o tamanho do obstáculo que importa, mas o tamanho da sua determinação para superá-lo.",
-        "author": "Dalai Lama"
-    },
-    {
-        "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
-        "author": "Eleanor Roosevelt"
-    },
-    {
-        "text": "Acredite em si mesmo e tudo será possível.",
-        "author": "Paulo Coelho"
-    },
-    {
-        "text": "Não importa o quão devagar você vá, desde que você não pare.",
-        "author": "Confúcio"
-    },
-    {
-        "text": "A esperança é o sonho do homem acordado.",
-        "author": "Aristóteles"
-    },
-    {
-        "text": "O que não mata, fortalece.",
-        "author": "Friedrich Nietzsche"
-    },
-    {
-        "text": "A vida é uma aventura, não um problema a ser resolvido.",
-        "author": "John Lennon"
-    },
-    {
-        "text": "Não se compare com os outros, compare-se com a melhor versão de si mesmo.",
-        "author": "Mahatma Gandhi"
-    },
-    {
-        "text": "A vida é curta, então aproveite cada momento.",
-        "author": "Charles Chaplin"
-    },
-    {
-        "text": "O sucesso não é final, o fracasso não é fatal, é a coragem para continuar que importa.",
+        "text": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
         "author": "Winston Churchill"
     },
     {
-        "text": "A felicidade é uma escolha, não um destino.",
-        "author": "William Arthur Ward"
+        "text": "Um homem pode ser tão grande quanto ele queira ser. Se você acredita em si mesmo e tem coragem, determinação, dedicação, iniciativa competitiva e se você está disposto a sacrificar as pequenas coisas da vida e pagar o preço pelas coisas que valem a pena, isso pode ser feito.",
+        "author": "Vince Lombardi"
     },
     {
-        "text": "O amor é a resposta.",
-        "author": "Mahatma Gandhi"
+        "text": "Não deixe que o medo de perder seja maior que a excitação de vencer.",
+        "author": "Robert Kiyosaki"
     },
     {
-        "text": "O impossível é apenas uma opinião.",
-        "author": "Paulo Coelho"
+        "text": "Na minha experiência, há só uma motivação, e isso é o desejo. Nenhuma razão ou princípio contêm ele ou se levantam contra ele.",
+        "author": "Jane Smiley"
     },
     {
-        "text": "A vida é uma obra de arte, então crie-a.",
-        "author": "John Lennon"
+        "text": "Dificuldades reais podem ser superadas; apenas as imaginárias são insuperáveis.",
+        "author": "Theodore N. Vail"
     },
     {
-        "text": "Seja gentil com você mesmo.",
-        "author": "Dalai Lama"
+        "text": "A fortuna fica ao lado daquele que ousa.",
+        "author": "Virgil"
     },
     {
-        "text": "Seja você mesmo, não se preocupe com o que os outros pensam.",
-        "author": "Confúcio"
+        "text": "Aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem.",
+        "author": "Anonymous"
     },
     {
-        "text": "A vida é curta, então viva-a ao máximo.",
+        "text": "Pessoas raramente obtêm sucesso a menos que se divirtam com o que fazem.",
+        "author": "Dale Carnegie"
+    },
+    {
+        "text": "Não tenha medo de desistir do bom para ir ao grande.",
+        "author": "John D. Rockefeller"
+    },
+    {
+        "text": "Você tem que acordar cada manhã com determinação se você quer ir para a cama com satisfação.",
+        "author": "George Lorimer"
+    },
+    {
+        "text": "Há dois tipos de pessoas que dirão que você não pode fazer diferença nesse mundo: aquelas que têm medo de tentar e aquelas que temem que você consiga.",
+        "author": "Ray Goforth"
+    },
+    {
+        "text": "Você deve esperar grandes coisas de você mesmo antes de poder fazê-las.",
+        "author": "Michael Jordan"
+    },
+    {
+        "text": "Ninguém pode fazer você se sentir inferior sem o seu consentimento.",
         "author": "Eleanor Roosevelt"
     },
     {
-        "text": "O segredo da felicidade é não esperar muito.",
-        "author": "Epicuro"
-    },
-    {
-        "text": "O que importa na vida não é o que você tem, mas quem você é.",
-        "author": "Oscar Wilde"
-    },
-    {
-        "text": "Não tenha medo de ser diferente, seja você mesmo.",
-        "author": "Malala Yousafzai"
-    },
-    {
-        "text": "Ame a si mesmo, pois você merece.",
-        "author": "Iyanla Vanzant"
-    },
-    {
-        "text": "Seja grato por tudo o que você tem, mesmo que seja pouco.",
-        "author": "Oprah Winfrey"
-    },
-    {
-        "text": "Acredite em seus sonhos, pois eles podem se tornar realidade.",
-        "author": "Walt Disney"
-    },
-    {
-        "text": "Nunca desista de si mesmo, pois você é capaz de grandes coisas.",
-        "author": "Nelson Mandela"
-    },
-    {
-        "text": "A vida é uma jornada, então aproveite o caminho.",
-        "author": "John Muir"
-    },
-    {
-        "text": "Ame a vida, pois ela é um presente.",
-        "author": "Mother Teresa"
-    },
-    {
-        "text": "A felicidade é uma escolha, então escolha ser feliz.",
+        "text": "Pessoas bem-sucedidas fazem o que pessoas não mal-sucedidas não estão dispostas a fazer. Não desejam que seja mais fácil, mas que sejam melhores.",
         "author": "Jim Rohn"
     },
     {
-        "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+        "text": "Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Se você não está disposto a arriscar o habitual, você terá que se contentar com o normal.",
+        "author": "Jim Rohn"
+    },
+    {
+        "text": "Pegue uma ideia. Faça dessa única ideia a sua vida - pense nela, sonhe com ela, viva essa ideia. Deixe o cérebro, os músculos, os nervos, todas as partes do seu corpo, estarem cheios dessa ideia, e apenas deixe todas as outras ideias em paz. Este é o caminho para o sucesso.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "A razão número um para as pessoas que falham na vida é porque ouvem seus amigos, família e vizinhos.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "text": "Nada no mundo é mais comum que pessoas mal-sucedidas com talento.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "A função da liderança é produzir mais líderes, não seguidores.",
+        "author": "Ralph Nader"
+    },
+    {
+        "text": "Para realizar grandes coisas, devemos não apenas agir, mas também sonhar, não apenas planejar, mas também acreditar.",
+        "author": "Anatole France"
+    },
+    {
+        "text": "Boas coisas vêm para as pessoas que esperam, mas coisas ainda melhores vêm para aquelas que vão e buscam.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Bem-aventurados aqueles que podem dar sem lembrar e levar sem esquecer.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Não levante sua voz, melhore seu argumento.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "O sucesso é ... conhecer o seu propósito na vida, crescer para alcançar o seu potencial máximo e semear as sementes que beneficiam os outros.",
+        "author": "John C. Maxwell"
+    },
+    {
+        "text": "O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso.",
+        "author": "Maya Angelou"
+    },
+    {
+        "text": "O que nos parece como julgamentos amargos são muitas vezes bênçãos disfarçadas.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "text": "Oportunidades não acontecem, você as cria.",
+        "author": "Chris Grosser"
+    },
+    {
+        "text": "O significado da vida é encontrar o seu dom. O propósito da vida é entregá-lo.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "A vida não é sobre encontrar a si mesmo. A vida é sobre criar você mesmo.",
+        "author": "Lolly Daskal"
+    },
+    {
+        "text": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam.",
+        "author": "Thomas A. Edison"
+    },
+    {
+        "text": "As coisas funcionam melhor para aqueles que fazem o melhor de como as coisas funcionam.",
+        "author": "John Wooden"
+    },
+    {
+        "text": "Grandes mentes discutem ideias; mentes comuns discutem eventos; mentes pequenas discutem pessoas.",
         "author": "Eleanor Roosevelt"
     },
     {
-        "text": "A vida é uma aventura, então aproveite cada momento.",
-        "author": "John Lennon"
+        "text": "Se você quer alcançar a excelência, pode chegar lá hoje. A partir deste segundo, pare de fazer um trabalho menos que excelente",
+        "author": "Thomas J. Watson"
     },
     {
-        "text": "Não se compare com os outros, compare-se com a melhor versão de si mesmo.",
-        "author": "Mahatma Gandhi"
+        "text": "Empresários de sucesso são doadores e não tomadores de energia positiva.",
+        "author": "Anonymous"
     },
     {
-        "text": "O sucesso não é final, o fracasso não é fatal, é a coragem para continuar que importa.",
+        "text": "Se você não pode explicar isso simplesmente, você não entende bem o suficiente.",
+        "author": "Albert Einstein"
+    },
+    {
+        "text": "Para viver uma vida criativa, devemos perder o medo de estar errado.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "É melhor falhar na originalidade do que ter sucesso na imitação.",
+        "author": "Herman Melville"
+    },
+    {
+        "text": "Nosso maior medo não deve ser o fracasso, mas o sucesso nas coisas da vida que realmente não importam.",
+        "author": "Francis Chan"
+    },
+    {
+        "text": "Você mede o tamanho da conquista pelos obstáculos que você teve que superar para alcançar seus objetivos.",
+        "author": "Booker T. Washington"
+    },
+    {
+        "text": "Nenhuma obra-prima foi criada por um artista preguiçoso.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Um verdadeiro empreendedor é alguém que não tem rede de segurança por baixo deles.",
+        "author": "Henry Kravis"
+    },
+    {
+        "text": "Coragem é resistência ao medo, domínio do medo - não ausência de medo.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "Todos os nossos sonhos podem se tornar realidade se tivermos coragem de persegui-los.",
+        "author": "Walt Disney"
+    },
+    {
+        "text": "Quando eu me atrevo a ser poderoso - para usar minha força no serviço da minha visão, então torna-se cada vez menos importante se eu tenho medo.",
+        "author": "Audre Lorde"
+    },
+    {
+        "text": "Pensar deve se tornar seu ativo de capital, não importa os altos e baixos que você encontra em sua vida.",
+        "author": "Dr. APJ Kalam"
+    },
+    {
+        "text": "Seja miserável ou se motive. O que quer que tenha que ser feito, é sempre sua escolha.",
+        "author": "Wayne Dyer"
+    },
+    {
+        "text": "Quando você pára de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você.",
+        "author": "Lolly Daskal"
+    },
+    {
+        "text": "Eu não quero chegar ao fim da minha vida e descobrir que eu vivi apenas o comprimento dela. Eu quero ter vivido a largura também.",
+        "author": "Diane Ackerman"
+    },
+    {
+        "text": "Para ser bem sucedido, você deve aceitar todos os desafios que surgem em seu caminho. Você não pode simplesmente aceitar os que você gosta.",
+        "author": "Mike Gafka"
+    },
+    {
+        "text": "Se você não valoriza seu tempo, nem os outros irão. Pare de doar seu tempo e talentos - comece a cobrar por isso.",
+        "author": "Kim Garst"
+    },
+    {
+        "text": "Sempre que você se encontra do lado da maioria, é hora de parar e refletir.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "A felicidade é uma borboleta que, quando perseguida, está sempre além de seu alcance, mas que, se você se sentar em silêncio, pode pousar em você.",
+        "author": "Nathaniel Hawthorne"
+    },
+    {
+        "text": "Eu acho que quando você tem um interesse real na vida e uma vida curiosa, esse sono não é a coisa mais importante.",
+        "author": "Martha Stewart"
+    },
+    {
+        "text": "Só adie para amanhã o que você está disposto a morrer tendo deixado desfeito.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "text": "Tente não se tornar uma pessoa de sucesso, mas tente se tornar uma pessoa de valor.",
+        "author": "Albert Einstein"
+    },
+    {
+        "text": "O primeiro passo em direção ao sucesso é dado quando você se recusa a ser prisioneiro do ambiente no qual você inicialmente se encontra.",
+        "author": "Mark Caine"
+    },
+    {
+        "text": "O único lugar que o sucesso vem antes do trabalho é no dicionário.",
+        "author": "Vidal Sassoon"
+    },
+    {
+        "text": "Se você não conceber o seu próprio plano de vida, é provável que caia no plano de outra pessoa. E adivinha o que eles planejaram para você? Não muito.",
+        "author": "Jim Rohn"
+    },
+    {
+        "text": "Você não pode conectar os pontos olhando para frente; você só pode conectá-los olhando para trás. Então você tem que confiar que os pontos de alguma forma se conectarão no seu futuro. Você tem que confiar em algo - seu intestino, destino, vida, karma, qualquer coisa. Essa abordagem nunca me decepcionou, e isso fez toda a diferença na minha vida.",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "O caminho para o sucesso e o caminho para o fracasso são quase exatamente os mesmos.",
+        "author": "Colin R. Davis"
+    },
+    {
+        "text": "Faça todos os dias uma coisa que o assuste.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "As pessoas costumam dizer que a motivação não dura. Bem, nem banho - é por isso que recomendamos diariamente.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "text": "Confie porque você está disposto a aceitar o risco, não porque é seguro ou certo.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Não é o que você olha que importa, é o que você vê.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Se você realmente quer algo, não espere - se ensine a ser impaciente.",
+        "author": "Gurbaksh Chahal"
+    },
+    {
+        "text": "Se você fizer o que você sempre fez, você terá o que sempre conseguiu.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "O sucesso é a soma de pequenos esforços, repetidos dia após dia.",
+        "author": "Robert Collier"
+    },
+    {
+        "text": "Pessoas que conseguem ter sucesso. Quanto mais eles têm sucesso, mais eles querem ter sucesso, e mais eles encontram um caminho para ter sucesso. Da mesma forma, quando alguém está falhando, a tendência é entrar em uma espiral descendente que pode até se tornar uma profecia auto-realizável.",
+        "author": "Tony Robbins"
+    },
+    {
+        "text": "Pequenas mentes são domadas e subjugadas pelo infortúnio; mas grandes mentes se erguem acima dela.",
+        "author": "Washington Irving"
+    },
+    {
+        "text": "Não deixe o que você não pode fazer interferir com o que você pode fazer.",
+        "author": "John R. Wooden"
+    },
+    {
+        "text": "Sucesso não consiste em nunca cometer erros, mas em nunca fazer o mesmo pela segunda vez.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "text": "Todo o segredo de uma vida bem-sucedida é descobrir qual é o destino de cada um e, então, fazer.",
+        "author": "Henry Ford"
+    },
+    {
+        "text": "Ao olharmos para o próximo século, os líderes serão aqueles que capacitarão os outros.",
+        "author": "Bill Gates"
+    },
+    {
+        "text": "Motivação é o que te faz começar. Hábito é o que te mantém seguindo em frente.",
+        "author": "Jim Ryun"
+    },
+    {
+        "text": "Qual é o ponto de estar vivo se você não tentar fazer algo notável?",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Você pode ter que lutar uma batalha mais de uma vez para vencê-la.",
+        "author": "Margaret Thatcher"
+    },
+    {
+        "text": "Um homem de sucesso é aquele que pode estabelecer uma base sólida com os tijolos que outros jogaram nele.",
+        "author": "David Brinkley"
+    },
+    {
+        "text": "Se você está atravessando o inferno, continue.",
         "author": "Winston Churchill"
     },
     {
-        "text": "A felicidade é uma escolha, não um destino.",
-        "author": "William Arthur Ward"
+        "text": "Se você quer alcançar a grandeza, pare de pedir permissão.",
+        "author": "Anonymous"
     },
     {
-        "text": "O amor é a resposta.",
-        "author": "Mahatma Gandhi"
+        "text": "Apenas quando a lagarta pensava que o mundo estava acabando, ele se transformou em uma borboleta.",
+        "author": "Proverb"
     },
     {
-        "text": "O impossível é apenas uma opinião.",
-        "author": "Paulo Coelho"
+        "text": "A razão pela qual a maioria das pessoas nunca alcança seus objetivos é que eles não os definem, nem os consideram seriamente como críveis ou viáveis. Os vencedores podem dizer para onde estão indo, o que planejam fazer no caminho e quem compartilhará a aventura com eles.",
+        "author": "Denis Watiley"
     },
     {
-        "text": "A vida é uma obra de arte, então crie-a.",
-        "author": "John Lennon"
+        "text": "A distância entre a insanidade e a genialidade é medida apenas pelo sucesso.",
+        "author": "Bruce Feirstein"
+    },
+    {
+        "text": "O ponto de partida de toda conquista é o desejo.",
+        "author": "Napolean Hill"
+    },
+    {
+        "text": "A maioria das coisas importantes no mundo foi realizada por pessoas que continuaram tentando quando parecia não haver ajuda.",
+        "author": "Dale Carnegie"
+    },
+    {
+        "text": "A falha é o tempero que dá ao sucesso o seu sabor.",
+        "author": "Truman Capote"
+    },
+    {
+        "text": "O seu problema não é o problema. A sua reação é o problema.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Todo progresso ocorre fora da zona de conforto.",
+        "author": "Michael John Bobak"
+    },
+    {
+        "text": "Se você quiser fazer uma mudança permanente, pare de se concentrar no tamanho dos seus problemas e comece a focar no seu tamanho!",
+        "author": "T. Harv Eker"
+    },
+    {
+        "text": "Desenvolver o sucesso a partir de suas falhas. O desânimo e fracasso são dois dos degraus mais seguro para o sucesso.",
+        "author": "Dale Carnegie"
+    },
+    {
+        "text": "O guerreiro de sucesso é um homem médio, mas com um foco apurado como um raio laser.",
+        "author": "Bruce Lee"
+    },
+    {
+        "text": "A melhor razão para começar uma organização é fazer sentido; para criar um produto ou serviço para tornar o mundo um lugar melhor.",
+        "author": "Guy Kawasaki"
+    },
+    {
+        "text": "Inovação distingue um líder de um seguidor.",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "Eu descobri que quanto mais eu trabalho, mais sorte eu pareço ter.",
+        "author": "Thomas Jefferson"
+    },
+    {
+        "text": "Sempre que você vê uma pessoa de sucesso, você só vê as glórias públicas, nunca os sacrifícios privados para alcançá-los.",
+        "author": "Vaibhav Shah"
+    },
+    {
+        "text": "A persistência é o caminho do êxito.",
+        "author": "Charles Chaplin"
+    },
+    {
+        "text": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.",
+        "author": "José de Alencar"
+    },
+    {
+        "text": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas acima de tudo, seja você sempre.",
+        "author": "tumblr"
+    },
+    {
+        "text": "Só existe um êxito: a capacidade de levar a vida que se quer.",
+        "author": "Cristopher Morley"
+    },
+    {
+        "text": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo.",
+        "author": "F. Scott Fitzgerald"
     }
 ]
