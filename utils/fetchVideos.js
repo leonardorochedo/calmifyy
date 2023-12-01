@@ -45,6 +45,9 @@ function filterVideos(videos) {
             title.includes("matou") ||
             title.includes("matar") ||
             title.includes("matei") ||
+            title.includes("triste") ||
+            title.includes("história") ||
+            title.includes("assombrosa") ||
             title.includes("disputei");
   
         if (!hasKeyword) {
